@@ -1,0 +1,45 @@
+.container {
+    width: 400px;
+    margin: 119px auto ;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 20px;
+  }
+  
+  input[type="text"],
+  input[type="date"],
+  input[type="number"] {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 3px;
+    margin-bottom: 10px;
+  }
+  
+  #price,
+  #date,
+  #stock {
+    width: 80%;
+  }
+  
+  .category {
+    background-color: white;
+  }
+  
+  button {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 10px;
+    background-color: #222;
+    margin-left: 91px;
+  }
+  
+  button:hover {
+    background-color: #222;
+  
+  }
+  

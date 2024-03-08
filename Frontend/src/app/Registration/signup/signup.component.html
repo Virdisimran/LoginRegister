@@ -1,0 +1,63 @@
+<!-- Pills navs -->
+<ul class="nav nav-pills nav-justified mb-3" id="ex1" role="tablist">
+    <li class="nav-item" role="presentation">
+      <a class="nav-link active" id="tab-login" data-mdb-toggle="pill" href="#pills-login" role="tab"
+        aria-controls="pills-login" aria-selected="true" routerLink="/login">Login</a>
+    </li>
+    <li class="nav-item" role="presentation">
+      <a class="nav-link active" id="tab-register" data-mdb-toggle="pill" href="#pills-register" role="tab"
+        aria-controls="pills-register" aria-selected="false">Register</a>
+    </li>
+  </ul>
+  <!-- Pills navs -->
+
+  <p id="newaccount" style="margin-left: 573px;  font-weight: bold ">Create New Account</p>
+
+ <!-- FirstName input -->
+ <form [formGroup]="myForm" (ngSubmit)="signUp()">
+ <div class="form-outline mb-4">
+     <label class="username" for="loginName">FirstName</label>
+    <input type="text" id="loginName" class="form-control" required formControlName="firstName" name="firstName" [(ngModel)]="firstName">
+    <div *ngIf="myForm.get('firstName')?.dirty && myForm.get('firstName')?.errors" ></div>
+    <div *ngIf="myForm.get('firstName')?.hasError('required')" class="errors">FirstName is required</div>
+  </div>
+
+  <!-- LastName input -->
+  <div class="form-outline mb-4">
+    <label class="password" for="loginPassword">LastName</label>
+    <input type="text" id="loginPassword" class="form-control" formControlName="lastName"  name="lastName" [(ngModel)]="lastName" required>
+    <div *ngIf="myForm.get('lastName')?.dirty && myForm.get('lastName')?.errors"></div>
+    <div *ngIf="myForm.get('lastName')?.hasError('required')" class="errors">LastName is required</div>
+  </div>
+
+   <!-- DateofBirth input -->
+   <div class="form-outline mb-4">
+    <label class="form-label" id="registerRepeatPassword">Date Of Birth</label>
+    <input type="date" id="registerRepeatPassword" class="form-control" formControlName="dob" name="dob" [(ngModel)]="dob" required/>
+    <div *ngIf="myForm.get('dob')?.dirty && myForm.get('dob')?.errors" ></div>
+    <div *ngIf="myForm.get('dob')?.hasError('required')" class="errors">Date of Birth is required</div>
+  </div>
+
+   <!--Email input-->
+  <div class="form-outline mb-4">
+    <label class="form-label" id="registeremail">Email</label>
+    <input type="email" id="registeremail" class="form-control" formControlName="email" name="email" [(ngModel)]="email" required/>
+    <div *ngIf="myForm.get('email')?.dirty && myForm.get('email')?.errors" ></div>
+    <div *ngIf="myForm.get('email')?.hasError('email')" class="errors">Enter a valid Email Id</div>
+    <div *ngIf="myForm.get('email')?.hasError('required')" class="errors">Email is required</div>
+  </div>
+
+
+  <!-- Checkbox -->
+  <div class="form-check d-flex justify-content-center mb-4" style="margin-top: 37px; margin-left: -140px;">
+    <input class="form-check-input me-2" type="checkbox" value="" id="registerCheck" checked
+      aria-describedby="registerCheckHelpText" />
+    <label class="form-check-label" for="registerCheck">
+        I agree all statements in 
+        <a href="">Terms of service</a> 
+    </label>
+  </div>
+   
+  <!-- Submit button -->
+  <button type="submit" class="btn btn-primary btn-block mb-3" id="signin" [disabled]="myForm.invalid" (click)="signUp()">Sign Up</button>
+</form>

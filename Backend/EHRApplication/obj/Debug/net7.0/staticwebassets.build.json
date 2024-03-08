@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "jtw931ckncgCKRHE2XrXsXGjIbmt1Yo7ynH9tieMNxY=",
+  "Source": "EHRApplication",
+  "BasePath": "_content/EHRApplication",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

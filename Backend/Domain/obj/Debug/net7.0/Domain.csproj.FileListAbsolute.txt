@@ -1,0 +1,14 @@
+D:\Day User\Simran\Official\C#\Domain\Domain\bin\Debug\net7.0\Domain.deps.json
+D:\Day User\Simran\Official\C#\Domain\Domain\bin\Debug\net7.0\Domain.dll
+D:\Day User\Simran\Official\C#\Domain\Domain\bin\Debug\net7.0\Domain.pdb
+D:\Day User\Simran\Official\C#\Domain\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Day User\Simran\Official\C#\Domain\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+D:\Day User\Simran\Official\C#\Domain\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+D:\Day User\Simran\Official\C#\Domain\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+D:\Day User\Simran\Official\C#\Domain\Domain\obj\Debug\net7.0\Domain.dll
+D:\Day User\Simran\Official\C#\Domain\Domain\obj\Debug\net7.0\refint\Domain.dll
+D:\Day User\Simran\Official\C#\Domain\Domain\obj\Debug\net7.0\Domain.pdb
+D:\Day User\Simran\Official\C#\Domain\Domain\obj\Debug\net7.0\ref\Domain.dll
+D:\Day User\Simran\Official\C#\Domain\Domain\bin\Debug\net7.0\Domain.runtimeconfig.json
+D:\Day User\Simran\Official\C#\Domain\Domain\obj\Debug\net7.0\Domain.csproj.AssemblyReference.cache
+D:\Day User\Simran\Official\C#\Domain\Domain\obj\Debug\net7.0\Domain.genruntimeconfig.cache

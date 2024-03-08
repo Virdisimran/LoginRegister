@@ -1,0 +1,63 @@
+#tab-login
+{
+    width: 303px;
+    margin-left: 209px;
+    margin-top: 39px;
+}
+
+#tab-register
+{
+    width: 303px;
+    margin-left: 151px;
+    margin-top: 39px;
+}
+
+#loginName,#loginPassword,#registerRepeatPassword,#registeremail
+{
+    width: 423px;
+    margin-left: 442px;
+}
+
+.username,.password,#registerRepeatPassword,#registeremail
+{
+    margin-left: 444px;
+}
+
+#signin
+{
+    margin-left: 601px;
+}
+
+#loginCheck
+{
+    margin-left: 475px;
+}
+
+#forgotpassword
+{
+    margin-right: 488px;
+
+}
+
+#notmember
+{
+    margin-top: 40px
+}
+
+#signin
+{
+    width: 100px;
+    padding: 9px;
+    margin-top: 30px;
+}
+
+#file{
+    margin-left: 443px;
+}
+
+.errors
+{
+    margin-left: 440px;
+    color: red;
+    font-size: small;
+}

@@ -1,0 +1,17 @@
+D:\Day User\Simran\Official\C#\Domain\Application\bin\Debug\net7.0\Application.deps.json
+D:\Day User\Simran\Official\C#\Domain\Application\bin\Debug\net7.0\Application.runtimeconfig.json
+D:\Day User\Simran\Official\C#\Domain\Application\bin\Debug\net7.0\Application.dll
+D:\Day User\Simran\Official\C#\Domain\Application\bin\Debug\net7.0\Application.pdb
+D:\Day User\Simran\Official\C#\Domain\Application\bin\Debug\net7.0\Domain.dll
+D:\Day User\Simran\Official\C#\Domain\Application\bin\Debug\net7.0\Domain.pdb
+D:\Day User\Simran\Official\C#\Domain\Application\obj\Debug\net7.0\Application.csproj.AssemblyReference.cache
+D:\Day User\Simran\Official\C#\Domain\Application\obj\Debug\net7.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Day User\Simran\Official\C#\Domain\Application\obj\Debug\net7.0\Application.AssemblyInfoInputs.cache
+D:\Day User\Simran\Official\C#\Domain\Application\obj\Debug\net7.0\Application.AssemblyInfo.cs
+D:\Day User\Simran\Official\C#\Domain\Application\obj\Debug\net7.0\Application.csproj.CoreCompileInputs.cache
+D:\Day User\Simran\Official\C#\Domain\Application\obj\Debug\net7.0\Application.csproj.CopyComplete
+D:\Day User\Simran\Official\C#\Domain\Application\obj\Debug\net7.0\Application.dll
+D:\Day User\Simran\Official\C#\Domain\Application\obj\Debug\net7.0\refint\Application.dll
+D:\Day User\Simran\Official\C#\Domain\Application\obj\Debug\net7.0\Application.pdb
+D:\Day User\Simran\Official\C#\Domain\Application\obj\Debug\net7.0\Application.genruntimeconfig.cache
+D:\Day User\Simran\Official\C#\Domain\Application\obj\Debug\net7.0\ref\Application.dll

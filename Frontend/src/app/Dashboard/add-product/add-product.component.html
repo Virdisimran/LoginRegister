@@ -1,0 +1,11 @@
+<app-navbar></app-navbar>
+<form [formGroup]="myForm" (ngSubmit)="addProduct()">
+  <div class="container">
+      <input type="text" name="productName" formControlName="productName"  placeholder="productName"><br>
+      <input type="text" name="category"  formControlName="category" id="price" placeholder="category"><br> 
+        <input type="text" name="brand" formControlName="brand" id="date" placeholder="brand"><br>
+        <input type="text" name="sellingPrice" formControlName="sellingPrice" class="category" placeholder="sellingPrice"><br>
+        <input type="text" name="purchasePrice"formControlName="purchasePrice" class="category" placeholder="purchasePrice"><br>
+        <button type="submit" (click)="addProduct()" id="button">Add Product</button>
+    </div>
+</form>
