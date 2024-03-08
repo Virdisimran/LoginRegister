@@ -4223,11 +4223,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Day User\\Simran\\Official\\C#\\Domain\\Infrastructure\\Infrastructure.csproj",
+      "projectUniqueName": "D:\\Day User\\ExtraPrjects\\LoginRegister\\Backend\\Infrastructure\\Infrastructure.csproj",
       "projectName": "Infrastructure",
-      "projectPath": "D:\\Day User\\Simran\\Official\\C#\\Domain\\Infrastructure\\Infrastructure.csproj",
+      "projectPath": "D:\\Day User\\ExtraPrjects\\LoginRegister\\Backend\\Infrastructure\\Infrastructure.csproj",
       "packagesPath": "C:\\Users\\simranwirdi\\.nuget\\packages\\",
-      "outputPath": "D:\\Day User\\Simran\\Official\\C#\\Domain\\Infrastructure\\obj\\",
+      "outputPath": "D:\\Day User\\ExtraPrjects\\LoginRegister\\Backend\\Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\simranwirdi\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4244,11 +4244,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "D:\\Day User\\Simran\\Official\\C#\\Domain\\Application\\Application.csproj": {
-              "projectPath": "D:\\Day User\\Simran\\Official\\C#\\Domain\\Application\\Application.csproj"
+            "D:\\Day User\\ExtraPrjects\\LoginRegister\\Backend\\Application\\Application.csproj": {
+              "projectPath": "D:\\Day User\\ExtraPrjects\\LoginRegister\\Backend\\Application\\Application.csproj"
             },
-            "D:\\Day User\\Simran\\Official\\C#\\Domain\\Domain\\Domain.csproj": {
-              "projectPath": "D:\\Day User\\Simran\\Official\\C#\\Domain\\Domain\\Domain.csproj"
+            "D:\\Day User\\ExtraPrjects\\LoginRegister\\Backend\\Domain\\Domain.csproj": {
+              "projectPath": "D:\\Day User\\ExtraPrjects\\LoginRegister\\Backend\\Domain\\Domain.csproj"
             }
           }
         }

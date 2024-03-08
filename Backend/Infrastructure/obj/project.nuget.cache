@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0Mxgj3+pzngXOkuEeINtbQyahlmat6vd/Sgp+Xj/x0HKWKuqQJH48Wfg3FHUR0CmJycrt//rc6Ur+/4taZlR8g==",
+  "dgSpecHash": "CxDNaWxQlKcD9sbvZsrvutFMA6+/i05FpIM0tde9VhvPpHCEVdSlwVk+wf9t1ltfTDQCppESQPvqfjOjRc3SCg==",
   "success": true,
-  "projectFilePath": "D:\\Day User\\Simran\\Official\\C#\\Domain\\Infrastructure\\Infrastructure.csproj",
+  "projectFilePath": "D:\\Day User\\ExtraPrjects\\LoginRegister\\Backend\\Infrastructure\\Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\simranwirdi\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\simranwirdi\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",

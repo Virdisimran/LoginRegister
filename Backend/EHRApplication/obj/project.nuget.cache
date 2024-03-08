@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UDdR0LCvJJ+DJGEoZpyh84DLQKrRN4pyIK8cZPKnJsfNsgxWOouVM/CJ48nr1fD3jTKYfbP2N+nmj1hWZCWCWA==",
+  "dgSpecHash": "sFbBA2KEl0XkGDeiuk2s6bfqev/wYpyfkSHggaad2nv9p4qIr8Bg6LM3fUzCTOSZM5lV17LASvLXUp64fMqEIw==",
   "success": true,
-  "projectFilePath": "D:\\Day User\\Simran\\Official\\C#\\Domain\\EHRApplication\\EHRApplication.csproj",
+  "projectFilePath": "D:\\Day User\\ExtraPrjects\\LoginRegister\\Backend\\EHRApplication\\EHRApplication.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\simranwirdi\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\simranwirdi\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Day User\\Simran\\Official\\C#\\Domain\\Domain\\Domain.csproj": {}
+    "D:\\Day User\\ExtraPrjects\\LoginRegister\\Backend\\Domain\\Domain.csproj": {}
   },
   "projects": {
-    "D:\\Day User\\Simran\\Official\\C#\\Domain\\Domain\\Domain.csproj": {
+    "D:\\Day User\\ExtraPrjects\\LoginRegister\\Backend\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Day User\\Simran\\Official\\C#\\Domain\\Domain\\Domain.csproj",
+        "projectUniqueName": "D:\\Day User\\ExtraPrjects\\LoginRegister\\Backend\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "D:\\Day User\\Simran\\Official\\C#\\Domain\\Domain\\Domain.csproj",
+        "projectPath": "D:\\Day User\\ExtraPrjects\\LoginRegister\\Backend\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\simranwirdi\\.nuget\\packages\\",
-        "outputPath": "D:\\Day User\\Simran\\Official\\C#\\Domain\\Domain\\obj\\",
+        "outputPath": "D:\\Day User\\ExtraPrjects\\LoginRegister\\Backend\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\simranwirdi\\AppData\\Roaming\\NuGet\\NuGet.Config",
